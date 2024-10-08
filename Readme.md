@@ -11,3 +11,8 @@ My  personal portfolio site showcasing my projects and skills
 To run this project locally, follow these steps:
 
 
+# How to setup
+- open your vs code on this file
+- install node.js on youe mechin 
+- open intregated tirmenal on vs code 
+- write command node -code file name-
